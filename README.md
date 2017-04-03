@@ -1,0 +1,2 @@
+# UtilitySQL_SQLServer
+SQLServerのクエリ備忘録
